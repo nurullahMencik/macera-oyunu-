@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  macera_oyunu.cpp
+C:\Users\nurul\source\repos\Project5\Project5\macera_oyunu.cpp(539,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nurul\source\repos\Project5\Project5\macera_oyunu.cpp(591,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project5.vcxproj -> C:\Users\nurul\source\repos\Project5\x64\Debug\macera_oyunu.exe
